@@ -1,0 +1,11 @@
+# Ignoring PDF files #
+*.pdf
+
+
+# Compiling and Linking files #
+src/*.o
+src/*.d
+*.swp
+src/chess*
+src/cat.txt
+src/cat2.txt
